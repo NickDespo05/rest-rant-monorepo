@@ -4,6 +4,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 const app = express();
+const jwt = require("json-web-token");
 
 // Express Settings
 app.use(cors());

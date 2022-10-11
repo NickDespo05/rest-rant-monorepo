@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/NickDespo05/rest-rant-monorepo#readme",
   "dependencies": {
+    "json-web-token": "^3.2.0",
     "monorepo": "^1.2.2"
   }
 }
