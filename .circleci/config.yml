@@ -21,3 +21,4 @@ workflows:
           run: npm run test
           # If you are using yarn, change the line below from "npm" to "yarn"
           pkg-manager: npm
+          
